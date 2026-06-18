@@ -35,4 +35,4 @@ Untuk menginstal ekstensi ini menggunakan file `.crx`:
 
 Pada tab **Pengaturan** (Settings), Anda mungkin perlu memasukkan konfigurasi tambahan seperti:
 - *Personal Access Token* GitHub (jika repositori bersifat *private*).
-- API Key untuk layanan AI (OpenAI, Gemini, atau lainnya) yang digunakan untuk men-generate teks laporan.
+- API Key untuk layanan AI (GroqAi dan Gemini) yang digunakan untuk men-generate teks laporan.
