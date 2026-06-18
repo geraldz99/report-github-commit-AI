@@ -23,16 +23,17 @@ Untuk menginstal ekstensi ini menggunakan file `.crx`:
 
 ## 🛠️ Cara Penggunaan
 
-1. Klik ikon ekstensi **GitHub Commit Reporter** di toolbar browser Anda.
-2. Berada di tab **Buat Laporan**, pilih mode laporan yang sesuai (tombol **Kerja** atau **Lembur**).
-3. Masukkan **Tanggal** aktivitas *commit* yang ingin dilaporkan.
-4. Pilih atau ketik **User GitHub** (contoh: `geraldz99`).
-5. Klik tombol hijau **🚀 Buat Laporan**.
-6. Tunggu beberapa saat, dan **Hasil laporan AI** akan otomatis muncul di dalam kotak teks di bagian bawah.
-7. Anda tinggal menyalin (*copy*) teks tersebut untuk dikirimkan sebagai laporan harian (Daily Standup/Report) Anda!
+1. **Buka halaman *commit*** pada repositori GitHub yang ingin Anda buat laporannya.
+2. Klik ikon ekstensi **GitHub Commit Reporter** di toolbar browser Anda.
+3. Berada di tab **Buat Laporan**, pilih mode laporan yang sesuai (tombol **Kerja** atau **Lembur**).
+4. Masukkan **Tanggal** aktivitas *commit* yang ingin dilaporkan.
+5. Pilih atau ketik **User GitHub** (contoh: `geraldz99`).
+6. Klik tombol hijau **🚀 Buat Laporan**.
+7. Tunggu beberapa saat, dan **Hasil laporan AI** akan otomatis muncul di dalam kotak teks di bagian bawah.
+8. Anda tinggal menyalin (*copy*) teks tersebut untuk dikirimkan sebagai laporan harian (Daily Standup/Report) Anda!
 
 ## ⚙️ Pengaturan Tambahan
 
 Pada tab **Pengaturan** (Settings), Anda mungkin perlu memasukkan konfigurasi tambahan seperti:
 - *Personal Access Token* GitHub (jika repositori bersifat *private*).
-- API Key untuk layanan AI (GroqAi dan Gemini) yang digunakan untuk men-generate teks laporan.
+- API Key untuk layanan AI (OpenAI, Gemini, atau lainnya) yang digunakan untuk men-generate teks laporan.
